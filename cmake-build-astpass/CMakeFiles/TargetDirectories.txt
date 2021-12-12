@@ -1,0 +1,4 @@
+/root/cmake-build-astpass/CMakeFiles/rebuild_cache.dir
+/root/cmake-build-astpass/CMakeFiles/edit_cache.dir
+/root/cmake-build-astpass/CMakeFiles/llvmassignment.dir
+/root/cmake-build-astpass/CMakeFiles/intrinsics_gen.dir
