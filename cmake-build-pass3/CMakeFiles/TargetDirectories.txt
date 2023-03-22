@@ -1,0 +1,4 @@
+/root/src/cmake-build-pass3/CMakeFiles/edit_cache.dir
+/root/src/cmake-build-pass3/CMakeFiles/rebuild_cache.dir
+/root/src/cmake-build-pass3/CMakeFiles/assignment3.dir
+/root/src/cmake-build-pass3/CMakeFiles/intrinsics_gen.dir
